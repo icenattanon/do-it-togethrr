@@ -1,1 +1,29 @@
+body {
+  font-family: Arial; 
+}
 
+header {
+  background-color: #2196F3;
+  color: white;
+  padding: 20px;
+}
+
+header h1 {
+  display: inline-block;
+  vertical-align: middle;  
+}
+
+header nav {
+  display: inline-block;
+  float: right;
+}
+
+.event {
+  border: 1px solid #ddd; 
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.event h3 {
+  margin-top: 0;
+}
